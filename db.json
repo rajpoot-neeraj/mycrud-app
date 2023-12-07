@@ -1,0 +1,46 @@
+{
+  "cruddata": [
+    {
+      "id": 4,
+      "name": "sanjana",
+      "email": "sanjana@gmail.com",
+      "phone": "098976643211"
+    },
+    {
+      "id": 5,
+      "name": "nehaverma",
+      "email": "neha@gmail.com",
+      "phone": "89675432"
+    },
+    {
+      "id": 6,
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "phone": "9757394859"
+    },
+    {
+      "id": 7,
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "phone": "947593838595"
+    },
+    {
+      "id": 8,
+      "name": "ishika",
+      "email": "ishika@gmail.com",
+      "phone": "8353739093"
+    },
+    {
+      "id": 9,
+      "name": "nehaverma",
+      "email": "neha@gmail.com",
+      "phone": "89675432"
+    },
+    {
+      "id": 10,
+      "name": "ishika",
+      "email": "ishika@gmail.com",
+      "phone": "08353739093"
+    }
+  ]
+}
