@@ -19,3 +19,5 @@ function App() {
 }
 
 export default App;
+
+// for importing new data json-server --watch db.json --port 8000

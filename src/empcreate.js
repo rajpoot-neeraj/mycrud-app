@@ -32,7 +32,7 @@ export default function Empcreate() {
         <div className='container'>
             <div className='card'>
                 <div className='card-title'>
-                    <h2>React Js Crud Tutorial</h2>
+                    <h2>React Js Crud application</h2>
                 </div>
                 <div className='card-body'>
                 <div className='offset-lg-3 col-lg-6'>
